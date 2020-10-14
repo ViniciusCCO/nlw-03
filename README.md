@@ -2,7 +2,7 @@
    <img src="./assets/logo.svg" alt="Turma" width="100px"/>   
 </p>
 
-<h1 style="text-align: center; font-weight: bold">Happy</h1>
+<h1 align="center" style="font-weight: bold">Happy</h1>
 
 <p align="center">:rocket: Plataforma desenvolvida para facilitar a localização de orfanatos durante a semana NLW (Next Level Week) #03.</p>
 
