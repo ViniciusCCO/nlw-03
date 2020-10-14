@@ -1,6 +1,8 @@
 <p align="center">
-   <img src="./assets/logo.svg" alt="Turma" width="400px"/>   
+   <img src="./assets/logo.svg" alt="Turma" width="100px"/>   
 </p>
+
+<h1 style="text-align: center; font-weight: bold">Happy</h1>
 
 <p align="center">:rocket: Plataforma desenvolvida para facilitar a localização de orfanatos durante a semana NLW (Next Level Week) #03.</p>
 
@@ -32,14 +34,14 @@
 
 ## Screenshots
 
-### Mobile
+### :iphone:	Mobile
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/splash-mobile.png" width="200px">
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mapa-mobile.png" width="200px">
 </p>
 
-### Web
+### :earth_americas: Web
 <p align="center" style="display: flex; justify-content: space-around; max-width: 820px;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home.png" width="400px">
 
