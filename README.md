@@ -25,10 +25,10 @@
 ## :computer: Tecnologias
 <ul>
   <li><a href="https://nodejs.org/">Node.js</a></li>
-  <!-- <li><a href="https://expo.io/">Expo</a></li> -->
+  <li><a href="https://expo.io/">Expo</a></li>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://reactjs.org/">React</a></li>
-  <!-- <li><a href="https://reactnative.dev/">React Native</a></li> -->
+  <li><a href="https://reactnative.dev/">React Native</a></li>
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
 </ul>
 
@@ -54,10 +54,10 @@
 <ul>
   <li>Back End (pasta server)</li>
   <li>Front End (pasta web)</li>
-  <li>Mobile (<!-- pasta mobile -->não foi criado ainda)</li>
+  <li>Mobile (pasta mobile)</li>
 </ul>
 
-<!-- <p>💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.</p> -->
+<p>💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.</p>
 
 ### Pré-requisitos
 
@@ -110,7 +110,7 @@ $ yarn start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-<!-- ### 📱Rodando a aplicação mobile
+### 📱Rodando a aplicação mobile
 
 <p>Para rodar a aplicação mobile você precisa de um celular com o app do expo instalado ou um emulador android/ios.</p>
 
@@ -130,7 +130,7 @@ $ yarn install
 # Execute a aplicação
 $ yarn start
 ```
-<p>Depois leia o QRCode com o app do expo ou execute no emulador.</p> -->
+<p>Depois leia o QRCode com o app do expo ou execute no emulador.</p>
 
 ## :memo: Licença
 
