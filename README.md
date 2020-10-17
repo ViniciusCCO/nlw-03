@@ -4,7 +4,7 @@
 
 <h1 align="center" style="font-weight: bold">Happy</h1>
 
-<p align="center">:rocket: Plataforma desenvolvida para facilitar a localização de orfanatos durante a semana NLW (Next Level Week) #03.</p>
+<p align="center">:rocket: O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. Foi desenvolvido durante a semana NLW (Next Level Week) #03.</p>
 
 <p align="center">
  <a href="#computer-Tecnologias">Tecnologias</a> •
@@ -12,15 +12,6 @@
  <a href="#rocket-Como-executar-o-projeto">Como executar o projeto</a> • 
  <a href="#memo-licença">Licença</a>
 </p>
-
-<hr/>
-
-<div id="status">
-    <h3 align="center">Status do projeto</h3>
-    <h4 align="center">
-      🚧 O projeto está em desenvolvimento. 🚧
-    </h4>
-  </div>
 
 ## :computer: Tecnologias
 <ul>
